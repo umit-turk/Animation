@@ -1,0 +1,19 @@
+body{
+  font-family:sans-serif ;
+  background: #1a1a1d;
+  color:#FFF;
+  font-size: 80px;
+  text-transform: uppercase;
+  padding:90px;
+}
+
+button{
+  fontsize: 30px;
+  text-transform: uppercase;
+  background: transparent;
+  background: #47cf73;
+  padding:30px;
+  letter-spacing:3px;
+  font-weight:600;
+  border: none;
+}
